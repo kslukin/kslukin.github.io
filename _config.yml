@@ -92,8 +92,9 @@ content:
     content:
       - layout: left
         title: Friedrich–Alexander University Erlangen–Nürnberg (FAU)
-        caption: 2020 - 2024
+        caption: October 2020 - May 2024
         sub_title: MSc Computational and Applied Mathematics
+        link: fau.de
         quote: >
            "Founded in 1743, FAU is one of Germany’s leading research universities, ranked #1 worldwide for innovation in the Times Higher Education Impact Rankings."
         description: | # this will include new lines to allow paragraphs
