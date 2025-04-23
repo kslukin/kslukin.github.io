@@ -6,13 +6,13 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Kseniia Lukin
+name: Ksenia Lukin
 title: Data Scientiest
 email: kseniia.lukin@gmail.com
 website: www.github.com/kspks
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
