@@ -98,7 +98,18 @@ content:
         quote: >
            "Founded in 1743, FAU is one of Germany’s leading research universities, ranked #1 worldwide for innovation in the Times Higher Education Impact Rankings."
         description: | # this will include new lines to allow paragraphs
-          My studies in computational and applied mathematics gave me the chance to refine my skills in data analysis, mathematical modeling, and machine learning. I focused on applying these techniques to real-world problems, with a particular emphasis on image processing and creating innovative solutions driven by data.
+          My studies in computational and applied mathematics gave me the chance to refine my skills in data analysis, mathematical modeling, and machine learning. I focused on applying these techniques to real-world problems, with a particular emphasis on image processing and creating innovative solutions driven by data.\\
+          **Thesis topics:**
+          - Hypegraph $p$-Laplace Operators for Image Denoising (M.Sc., 2023)
+
+          **Key courses:**
+          - Mathematical Data Science 
+          - Control, machine learning and numerics
+          - Modeling, simulation and optimization (Practical Course)
+          - Mathematical Image Processing
+          - Programming techniques for supercomputers 
+          
+
       
       - layout: left
         title: Moscow State University of Civil Engineering (MSUCE)
