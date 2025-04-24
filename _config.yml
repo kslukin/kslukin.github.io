@@ -102,7 +102,7 @@ content:
            "Founded in 1743, FAU is one of Germany’s leading research universities, ranked #1 worldwide for innovation in the Times Higher Education Impact Rankings."
         description: | # this will include new lines to allow paragraphs
           My studies in computational and applied mathematics gave me the chance to refine my skills in data analysis, mathematical modeling, and machine learning. I focused on applying these techniques to real-world problems, with a particular emphasis on image processing and creating innovative solutions driven by data.\\
-          **Thesis topics:**
+          📌 **Thesis topics:**
           - Hypegraph *p*-Laplace Operators for Image Denoising (M.Sc., 2023) [[GitHub](https://github.com/kslukin/FAU_Master_Thesis)]
 
           **Key courses:**
@@ -123,7 +123,7 @@ content:
            "For over 100 years, the university has combined tradition and innovation to educate civil engineers who shape the built environment."
         description: | # this will include new lines to allow paragraphs
           My time at MSUCE was where it all started - long nights with math models, unexpected breakthroughs, and the first real spark of curiosity about how data reflects the world around us. I began by analyzing economic trends in construction, and a few years later found myself diving into the strange beauty of stock market fractals. These years gave me not just two degrees, but a real passion for patterns, complexity, and making sense of the numbers behind the scenes.\\
-          **Thesis topics:**
+          📌 **Thesis topics:**
           - Statistical Analysis of Stock Market Fractal Nature (M.Sc., 2021)
           - Statistical Analysis of Defined Economic Indices of Construction Industry Functioning (B.Sc., 2019)
           
@@ -145,9 +145,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in math and Python programming some of my other interests and hobbies are:
-      - Yoga
-      - Cooking
-      - Painting by numbers
+      - Yoga 🧘‍♀️
+      - Baking 🍰
+      - Painting by numbers 🖼️
     
 
      ## Look at this cool image  
