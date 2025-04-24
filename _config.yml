@@ -134,7 +134,7 @@ content:
           - Data Bases and Intelligent Systems
           - Programming in C++ and MATLAB
      
-  - title: Publications
+  - title: 📚 Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
       Hypergraph *p* - Laplacians and Scale Spaces. A.Fazeny, D.Tenbrinck, K.Lukin and M.Burger.
