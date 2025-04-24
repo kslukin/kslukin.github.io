@@ -140,7 +140,12 @@ content:
       Hypergraph *p* - Laplacians and Scale Spaces. A.Fazeny, D.Tenbrinck, K.Lukin and M.Burger.
       - Journal Math Imaging Vision 66, 529–549 (2024). [[link](https://doi.org/10.1007/s10851-024-01183-0)]
       - Journal Scale Space and Variational Methods in Computer Vision, 677–690 (2023). [[link](http://dx.doi.org/10.1007/978-3-031-31975-4_52)]
-          
+  
+  - title: 🚀 Courses 
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+    9
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
