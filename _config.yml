@@ -94,7 +94,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Friedrich–Alexander University Erlangen–Nürnberg (FAU)
+        title: 🎓 Friedrich–Alexander University Erlangen–Nürnberg (FAU)
         caption: October 2020 - May 2024
         sub_title: M.Sc. Computational and Applied Mathematics
         link: fau.de
@@ -115,7 +115,7 @@ content:
 
       
       - layout: left
-        title: Moscow State University of Civil Engineering (MSUCE)
+        title: 🎓 Moscow State University of Civil Engineering (MSUCE)
         caption: September 2015 - June 2021
         sub_title: M.Sc. Applied Mechanics and B.Sc. Applied Mathematics
         link: mgsu.ru
