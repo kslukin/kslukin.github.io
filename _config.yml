@@ -85,6 +85,7 @@ content:
             "A global leader in medical technology, driving innovation in diagnostics and healthcare solutions worldwide."
        #    Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
+          At a leading med-tech company, I dove into real-world data — forecasting equipment demand, handling messy time series, and building a ChatGPT-style tool to make financial reporting easier. From writing PySpark in Databricks to designing a user-friendly app with Streamlit, I loved seeing how smart data work can really make a difference.
       #     Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
   - title: Education # Title for the section
