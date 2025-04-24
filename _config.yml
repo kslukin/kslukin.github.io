@@ -102,7 +102,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           My studies in computational and applied mathematics gave me the chance to refine my skills in data analysis, mathematical modeling, and machine learning. I focused on applying these techniques to real-world problems, with a particular emphasis on image processing and creating innovative solutions driven by data.\\
           **Thesis topics:**
-          - Hypegraph *p*-Laplace Operators for Image Denoising (M.Sc., 2023)
+          - Hypegraph *p*-Laplace Operators for Image Denoising (M.Sc., 2023) [[link](https://github.com/kslukin/FAU_Master_Thesis)]
 
           **Key courses:**
           - Mathematical Data Science 
