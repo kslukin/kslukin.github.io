@@ -102,11 +102,11 @@ content:
      
       - layout: left
         title: Moscow State University of Civil Engineering (MSUCE)
-        caption: October 2020 - May 2024
-        sub_title: MSc Computational and Applied Mathematics
-        link: fau.de
+        caption: September 2015 - June 2021
+        sub_title: MSc Applied Mechanics and B.Sc. Applied Mathematics
+        link: mgsu.ru
         quote: >
-           "Founded in 1743, FAU is one of Germany’s leading research universities, ranked #1 worldwide for innovation in the Times Higher Education Impact Rankings."
+           "For over 100 years, the university has combined tradition and innovation to educate civil engineers who shape the built environment."
         description: | # this will include new lines to allow paragraphs
        ##   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
