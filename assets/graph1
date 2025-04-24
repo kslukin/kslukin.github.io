@@ -1,0 +1,11 @@
+import plotly.express as px
+
+# Data example
+df = px.data.gapminder()
+
+# Graph creating 
+fig = px.scatter(df, x="gdpPercap", y="lifeExp", color="continent", size="pop", hover_name="country",
+                 log_x=True, size_max=60, template="plotly_dark")
+
+# Save as HTML
+fig.write_html("plot.html")
