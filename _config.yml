@@ -46,7 +46,7 @@ linkedin_username: kslukin
 
 # About Section
 # about_title: About Me
-about_profile_image: images/photo.jpeg
+about_profile_image: images/created_photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Ksenia and I'm a data scientist. 
 
