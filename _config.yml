@@ -98,7 +98,7 @@ content:
         quote: >
            "Founded in 1743, FAU is one of Germany’s leading research universities, ranked #1 worldwide for innovation in the Times Higher Education Impact Rankings."
         description: | # this will include new lines to allow paragraphs
-       ##   During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
      
       - layout: left
         title: Moscow State University of Civil Engineering (MSUCE)
@@ -109,9 +109,9 @@ content:
            "For over 100 years, the university has combined tradition and innovation to educate civil engineers who shape the built environment."
         description: | # this will include new lines to allow paragraphs
        ##   I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.       
-       *Thesis topics:*
-       Statistical Analysis of Defined Economic Indices of Construction Industry Functioning (B.Sc., 2019)
-       Statistical Analysis of Stock Market Fractal Nature (M.Sc., 2021)
+      ## *Thesis topics:*
+       ##Statistical Analysis of Defined Economic Indices of Construction Industry Functioning (B.Sc., 2019)
+      ## Statistical Analysis of Stock Market Fractal Nature (M.Sc., 2021)
        
   - title: A Little More About Me
     layout: text
