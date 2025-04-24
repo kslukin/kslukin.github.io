@@ -1,11 +1,18 @@
-import plotly.express as px
+<div id="plotly-chart"></div>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script>
+  var trace1 = {
+    x: [1, 2, 3, 4],
+    y: [10, 11, 12, 13],
+    type: 'scatter'
+  };
 
-# Data example
-df = px.data.gapminder()
+  var data = [trace1];
 
-# Graph creating 
-fig = px.scatter(df, x="gdpPercap", y="lifeExp", color="continent", size="pop", hover_name="country",
-                 log_x=True, size_max=60, template="plotly_dark")
+  var layout = {
+    title: 'Example'
+  };
 
-# Save as HTML
-fig.write_html("plot.html")
+  Plotly.newPlot('plotly-chart', data, layout);
+</script>
+
