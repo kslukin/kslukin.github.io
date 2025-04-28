@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Math</mark>,<mark>DS & ML🤖</mark>,  <mark>Python, SQL, PySpark</mark>,  <mark>Data Visualization & Reporting</mark> and <mark>Eating Pizza 🍕</mark>
 
 content:
-  - title: Projectsfff # Title for the section
+  - title: Projectsff # Title for the section
     
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
