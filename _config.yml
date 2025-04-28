@@ -77,7 +77,7 @@ content:
     content:
       - layout: left
         title: 🇩🇪 Siemens Healthineers
-        link: boringcompany.com
+        link: siemens-healthineers.com
         # link_text: siemens-healthineers.com
         sub_title: Data Scientist in Projects & Digital - Diagnostic Imaging Finance (Working Student)
         caption: August 2022 - December 2023
@@ -97,6 +97,7 @@ content:
     content:
       - layout: left
         title: 🎓 Friedrich–Alexander University Erlangen–Nürnberg (FAU)
+        link: fau.de
         caption: October 2020 - May 2024
         sub_title: M.Sc. Computational and Applied Mathematics
         quote: >
@@ -105,7 +106,7 @@ content:
           My studies in computational and applied mathematics gave me the chance to refine my skills in data analysis, mathematical modeling, and machine learning. I focused on applying these techniques to real-world problems, with a particular emphasis on image processing and creating innovative solutions driven by data.
 
           📌 Thesis topics:
-          - Hypegraph p-Laplace Operators for Image Denoising (M.Sc., 2023) [GitHub](https://github.com/kslukin/FAU_Master_Thesis)
+          - Hypegraph *p*-Laplace Operators for Image Denoising (M.Sc., 2023) [PDF file and Code here](https://github.com/kslukin/FAU_Master_Thesis)
 
           Key courses:
           - Mathematical Data Science
