@@ -61,7 +61,7 @@ content:
         link: github.com/kslukin/toy_projects/tree/main/Connect4_AI
         link_text: Project Website
         additional_links:
-          - title: Connect Four AI: Minimax with Alpha-Beta Pruning
+          - title: n
             icon: fab fa-github
             url: github.com/kslukin
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
