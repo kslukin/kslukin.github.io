@@ -96,15 +96,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: 🎓 Friedrich–Alexander University Erlangen–Nürnberg (FAU)
+        caption: October 2020 - May 2024
+        sub_title: M.Sc. Computational and Applied Mathematics
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          "Founded in 1743, FAU is one of Germany’s leading research universities, ranked #1 worldwide for innovation in the Times Higher Education Impact Rankings."
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          My studies in computational and applied mathematics gave me the chance to refine my skills in data analysis, mathematical modeling, and machine learning. I focused on applying these techniques to real-world problems, with a particular emphasis on image processing and creating innovative solutions driven by data.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          📌 Thesis topics:
+          - Hypegraph p-Laplace Operators for Image Denoising (M.Sc., 2023) [GitHub](https://github.com/kslukin/FAU_Master_Thesis)
+
+          Key courses:
+          - Mathematical Data Science
+          - Control, machine learning and numerics
+          - Modeling, simulation and optimization (Practical Course)
+          - Mathematical Image Processing
+          - Programming techniques for supercomputers
 
   - title: A Little More About Me
     layout: text
