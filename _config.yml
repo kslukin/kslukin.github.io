@@ -58,19 +58,19 @@ content:
     content:
       - layout: top-middle
         title: Super awesome project
-        link: github.com/kslukin
+        link: github.com/kslukin/toy_projects/tree/main/Connect4_AI
         # link_text: Project Website
         additional_links:
-          - title:  First project
+          - title:  Connect Four AI: Minimax with Alpha-Beta Pruning
             icon: fab fa-github
             url: github.com/kslukin
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Soon
+          Predicting outcomes, one move at a time.
         description: | # this will include new lines to allow paragraphs
-          Time
+          A strategic Connect Four simulation where an AI agent applies minimax search with alpha-beta pruning, balancing deterministic optimization with stochastic variability for more natural gameplay dynamics.
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
