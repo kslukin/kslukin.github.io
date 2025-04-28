@@ -139,14 +139,15 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
      Although my list of publications is still short, I'm proud of the research I conducted toward the end of my university journey — especially the work created in collaboration with an incredibly talented and inspiring team.🌟
-     Hypergraph *p* - Laplacians and Scale Spaces. A.Fazeny, D.Tenbrinck, K.Lukin and M.Burger.
+     
+     Title: Hypergraph *p* - Laplacians and Scale Spaces. A.Fazeny, D.Tenbrinck, K.Lukin and M.Burger.
      - Journal Math Imaging Vision 66, 529–549 (2024). [link](https://link.springer.com/article/10.1007/s10851-024-01183-0)
      - Journal Scale Space and Variational Methods in Computer Vision, 677–690 (2023). [link](https://arxiv.org/abs/2309.15419)
 
   - title: 🚀 Courses
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Al
+      all
   
   - title: A Little More About Me
     layout: text
