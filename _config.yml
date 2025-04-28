@@ -147,7 +147,10 @@ content:
   - title: 🚀 Courses
     layout: text
     content: | # this will include new lines to allow paragraphs
-      all
+      - Master Statistics with Python ([Codecademy](https://www.codecademy.com/enrolled/paths/master-statistics-with-python))
+      - Intro to Deep Learning: Use TensorFlow and Keras to build and train neural networks for structured data. ([Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning/discussion?sort=hotness))
+
+
   
   - title: A Little More About Me
     layout: text
