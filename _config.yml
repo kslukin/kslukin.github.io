@@ -147,10 +147,10 @@ content:
   - title: 🚀 Courses
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Master Statistics with Python: Statistics behind Data Science ([Codecademy](https://www.codecademy.com/enrolled/paths/master-statistics-with-python))
+      - Master Statistics with Python: Statistics behind Data Science. ([Codecademy](https://www.codecademy.com/enrolled/paths/master-statistics-with-python))
       - Intro to Deep Learning: Use TensorFlow and Keras to build and train neural networks for structured data. ([Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning))
-      - The Data Scientist’s Toolbox by Johns Hopkins University ([Coursera](https://www.coursera.org/learn/data-scientists-tools))
-      - Time Series: Apply ML to real-world forecasting tasks.([Kaggle](https://www.kaggle.com/learn/time-series))
+      - The Data Scientist’s Toolbox by Johns Hopkins University. ([Coursera](https://www.coursera.org/learn/data-scientists-tools))
+      - Time Series: Apply ML to real-world forecasting tasks. ([Kaggle](https://www.kaggle.com/learn/time-series))
 
 
 
