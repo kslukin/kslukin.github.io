@@ -70,19 +70,20 @@ content:
         quote: >
           Predicting outcomes, one move at a time.
         description: | # this will include new lines to allow paragraphs
-          A strategic Connect Four simulation where an AI agent applies minimax search with alpha-beta pruning, balancing deterministic optimization with stochastic variability for more natural gameplay dynamics.
+          Soon 
       - layout: top-middle
         title: Time-Series
-        link: github.com/kslukin/toy_projects/tree/main/Connect4_AI
+        link: github.com/kslukin/
         link_text: Project Website
         additional_links:
           - title: 
             icon: fab fa-github
             url: github.com/kslukin
         quote: >
-          Predicting outcomes, one move at a time.
+          In process
         description: | # this will include new lines to allow paragraphs
-          A strategic C
+          Soon
+
 
 
   - title: Experience # Title for the section
