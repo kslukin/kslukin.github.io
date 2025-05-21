@@ -72,7 +72,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           A strategic Connect Four simulation where an AI agent applies minimax search with alpha-beta pruning, balancing deterministic optimization with stochastic variability for more natural gameplay dynamics. 
       - layout: top-middle
-        title: Hypergraph $p$-Laplace Operators for Image Denoising
+        title: Hypergraph *p*-Laplace Operators for Image Denoising
         link: github.com/kslukin/FAU_Master_Thesis
         link_text: Project Website
         additional_links:
@@ -173,6 +173,7 @@ content:
   - title: 🚀 Courses
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - Open Machine Learning Course by mlcourse.ai ([mlcourse.ai ](https://mlcourse.ai/book/index.html))
       - Master Statistics with Python: Statistics behind Data Science. ([Codecademy](https://www.codecademy.com/enrolled/paths/master-statistics-with-python))
       - Intro to Deep Learning: Use TensorFlow and Keras to build and train neural networks for structured data. ([Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning))
       - The Data Scientist’s Toolbox by Johns Hopkins University. ([Coursera](https://www.coursera.org/learn/data-scientists-tools))
