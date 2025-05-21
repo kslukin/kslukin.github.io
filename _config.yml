@@ -54,15 +54,17 @@ about_content: | # this will include new lines to allow paragraphs
 
   💻 What I Code With: **Languages & Tools**
   
-  🐍 Python (pandas / NumPy / scikit-learn / XGBoost / TensorFlow / Keras,  and Seaborn / Plotly / Matplotlib, and LangChain / OpenAI / Streamlit / Jupyter) — my everyday toolbox
+  🐍 Python (pandas / NumPy / scikit-learn / XGBoost / TensorFlow / Keras,  and Seaborn / Plotly / Matplotlib, and LangChain / OpenAI / Streamlit / Jupyter) ★★★★☆ - my everyday toolbox
   
-  🛢️ SQL — for digging through data
+  🛢️ SQL ★★★★☆  — for digging through data
+
+  🧩 ABAP ★☆☆☆☆ – just getting started 
   
-  🔥 PySpark — when things get really big
+  🔥 PySpark ★★★☆☆ — when things get really big
   
-  ⚙️ C++ / MATLAB — for the math-heavy stuff
+  ⚙️ C++ / MATLAB ★★☆☆☆ — for the math-heavy stuff
   
-  🗂️ Git & GitHub — because versioning saves lives
+  🗂️ Git & GitHub ★★★☆☆ — because versioning saves lives
 
 content:
   - title: Projects # Title for the section
