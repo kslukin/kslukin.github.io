@@ -52,9 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   I am most skilled in: <mark>Math</mark>, <mark>Time Series</mark>,<mark>Data Visualization & Reporting</mark> and <mark>Eating Sushi</mark>
 
-  💻 What I Code With
-  
-  Languages & Tools
+  💻 What I Code With: **Languages & Tools**
   
   🐍 Python (pandas / NumPy / scikit-learn / XGBoost / TensorFlow / Keras,  and Seaborn / Plotly / Matplotlib, and LangChain / OpenAI / Streamlit / Jupyter) — my everyday toolbox
   
