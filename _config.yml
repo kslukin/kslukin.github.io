@@ -52,6 +52,14 @@ about_content: | # this will include new lines to allow paragraphs
   
   I am most skilled in: <mark>Math</mark>, <mark>Time Series</mark>,<mark>Data Visualization & Reporting</mark> and <mark>Eating Sushi</mark>
 
+  💻 What I Code With
+  Languages & Tools
+  🐍 Python (pandas / NumPy / scikit-learn / XGBoost / TensorFlow / Keras,  and Seaborn / Plotly / Matplotlib, and LangChain / OpenAI / Streamlit / Jupyter) — my everyday toolbox
+  🛢️ SQL — for digging through data
+  🔥 PySpark — when things get really big
+  ⚙️ C++ / MATLAB — for the math-heavy stuff
+  🗂️ Git & GitHub — because versioning saves lives
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -72,7 +80,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           A strategic Connect Four simulation where an AI agent applies minimax search with alpha-beta pruning, balancing deterministic optimization with stochastic variability for more natural gameplay dynamics. 
       - layout: top-middle
-        title: Hypergraph *p*-Laplace Operators for Image Denoising
+        title: Hypergraph *p* - Laplace Operators for Image Denoising
         link: github.com/kslukin/FAU_Master_Thesis
         link_text: Project Website
         additional_links:
@@ -82,7 +90,7 @@ content:
         quote: >
           Where math meets pixels
         description: | # this will include new lines to allow paragraphs
-          An image denoising approach using p-Laplace operators on unoriented hypergraphs. Built in Python and developed in collaboration with researchers, the project blends theory and experiments to enhance visual data.
+          An image denoising approach using *p* -  Laplace operators on unoriented hypergraphs. Built in Python and developed in collaboration with researchers, the project blends theory and experiments to enhance visual data.
       - layout: top-middle
         title: Time-Series
         link: github.com/kslukin/
