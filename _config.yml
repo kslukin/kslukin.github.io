@@ -100,7 +100,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           An image denoising approach using *p* -  Laplace operators on unoriented hypergraphs. Built in Python and developed in collaboration with researchers, the project blends theory and experiments to enhance visual data.
          
-          ![Trees](/images/project_pic_1.png "Trees"){: width="300" }
+          ![Trees](/images/project_pic_1.png "Trees"){: width="50" }
 
       - layout: top-middle
         title: Time-Series
