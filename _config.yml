@@ -66,13 +66,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   🗂️ Git & GitHub ★★★☆☆ — because versioning saves lives
 
-  **Spoken Languages**  
-  
-  🇷🇺 Russian — ★★★★★ 
-  
-  🇬🇧 English — ★★★★☆  
-  
-  🇩🇪 German — ★★★☆☆
+  **Spoken Languages**: 🇷🇺 Russian, 🇬🇧 English, 🇩🇪 German.
 
 content:
   - title: Projects # Title for the section
@@ -105,6 +99,8 @@ content:
           Where math meets pixels
         description: | # this will include new lines to allow paragraphs
           An image denoising approach using *p* -  Laplace operators on unoriented hypergraphs. Built in Python and developed in collaboration with researchers, the project blends theory and experiments to enhance visual data.
+          ![Trees](/images/created_photo.jpg "Trees")
+
       - layout: top-middle
         title: Time-Series
         link: github.com/kslukin/
