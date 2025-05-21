@@ -48,16 +48,22 @@ linkedin_username: kslukin
 # about_title: About Me
 about_profile_image: images/created_photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hey, I’m Ksenia! I’m into data 📊 – figuring out how things work behind the scenes and finding ways to make them better. I enjoy working with data to solve real-world problems 💡 and constantly challenge myself to try new tools and methods 🛠️. When I’m not coding 💻, you’ll probably find me thinking about ways to make complicated things easier to understand 🧠 or diving deep into a new problem to crack it.
+  Hey, I’m Ksenia! I’m into data – figuring out how things work behind the scenes and finding ways to make them better. I enjoy working with data to solve real-world problems 💡 and constantly challenge myself to try new tools and methods 🛠️. When I’m not coding, you’ll probably find me thinking about ways to make complicated things easier to understand 🧠 or diving deep into a new problem to crack it.
   
   I am most skilled in: <mark>Math</mark>, <mark>Time Series</mark>,<mark>Data Visualization & Reporting</mark> and <mark>Eating Sushi</mark>
 
   💻 What I Code With
+  
   Languages & Tools
+  
   🐍 Python (pandas / NumPy / scikit-learn / XGBoost / TensorFlow / Keras,  and Seaborn / Plotly / Matplotlib, and LangChain / OpenAI / Streamlit / Jupyter) — my everyday toolbox
+  
   🛢️ SQL — for digging through data
+  
   🔥 PySpark — when things get really big
+  
   ⚙️ C++ / MATLAB — for the math-heavy stuff
+  
   🗂️ Git & GitHub — because versioning saves lives
 
 content:
