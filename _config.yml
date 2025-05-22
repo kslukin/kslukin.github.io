@@ -88,7 +88,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           A strategic Connect Four simulation where an AI agent applies minimax search with alpha-beta pruning, balancing deterministic optimization with stochastic variability for more natural gameplay dynamics. 
       - layout: top-middle
-        title: Hypergraph p - Laplace Operators for Image Denoising
+        title: Hypergraph ***p - Laplace*** Operators for Image Denoising
         link: github.com/kslukin/FAU_Master_Thesis
         link_text: Project Website
         additional_links:
