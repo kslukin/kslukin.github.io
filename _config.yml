@@ -99,7 +99,14 @@ content:
           Where math meets pixels
         description: | # this will include new lines to allow paragraphs
           An image denoising approach using *p* -  Laplace operators on unoriented hypergraphs. Built in Python and developed in collaboration with researchers, the project blends theory and experiments to enhance visual data.
-         
+          <details>
+          <summary><strong>Подробнее о проекте</strong></summary>
+          <ul>
+            <li>Использование <em>p</em>-Лапласиана для гладкости графов</li>
+            <li>Модель без обучения: только теория и анализ</li>
+            <li>Python + NumPy/SciPy, визуализация в matplotlib</li>
+          </ul>
+          </details>
           ![Trees](/images/project_pic_4.png "Trees"){: .center width="10000" }
 
       - layout: top-middle
