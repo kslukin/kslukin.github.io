@@ -100,7 +100,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           An image denoising approach using *p* -  Laplace operators on unoriented hypergraphs. Built in Python and developed in collaboration with researchers, the project blends theory and experiments to enhance visual data.
           <details>
-          <summary class="details-toggle">Project details ↓</summary>
+          <summary class="details-toggle"><strong>▶ Project details</strong></summary>
 
           <ul>
             <li>Reimagined image denoising using <strong>hypergraphs</strong> instead of pixel grids</li>
