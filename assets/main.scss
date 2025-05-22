@@ -3,3 +3,16 @@
 ---
 
 @import 'modern-resume-theme';
+
+.details-toggle {
+  color: #007acc; /* синий, как ссылка */
+  cursor: pointer;
+  font-weight: 600;
+  display: inline-block;
+  transition: color 0.2s ease;
+}
+
+.details-toggle:hover {
+  color: #005f99;
+  text-decoration: underline;
+}
