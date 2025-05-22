@@ -88,7 +88,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           A strategic Connect Four simulation where an AI agent applies minimax search with alpha-beta pruning, balancing deterministic optimization with stochastic variability for more natural gameplay dynamics. 
       - layout: top-middle
-        title: Hypergraph ***p - Laplace*** Operators for Image Denoising
+        title: Hypergraph <em>p</em> - Laplace Operators for Image Denoising
         link: github.com/kslukin/FAU_Master_Thesis
         link_text: Project Website
         additional_links:
@@ -105,7 +105,7 @@ content:
             <li>Reimagined image denoising using <strong>hypergraphs</strong> instead of pixel grids</li>
             <li>Built a full pipeline in <strong>Python</strong> — from theory to sharp, clean images</li>
             <li>Let pixels team up: local neighbors formed <strong>hyperedges</strong>, distant ones were matched by <strong>color similarity</strong></li>
-            <li>Designed our own <strong>p-Laplacian operator</strong> to control smoothing with math precision</li>
+            <li>Designed our own <strong><em>p</em>-Laplacian operator</strong> to control smoothing with math precision</li>
             <li>Played with different hyperedge weights — the image quality responded instantly</li>
             <li>The result? Cleaner images, preserved edges, and a fun ride through math and code</li>
           </ul>
