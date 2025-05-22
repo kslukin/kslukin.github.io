@@ -5,14 +5,15 @@
 @import 'modern-resume-theme';
 
 .details-toggle {
-  color: #007acc; /* синий, как ссылка */
+  color: #2ecc71; /* green ( like 'success') */
+  font-weight: bold;
   cursor: pointer;
-  font-weight: 600;
+  font-size: 1.05rem;
   display: inline-block;
   transition: color 0.2s ease;
 }
 
 .details-toggle:hover {
-  color: #005f99;
+  color: #27ae60; /*  */
   text-decoration: underline;
 }
