@@ -105,12 +105,12 @@ content:
           <ul>
             <li>Reimagined image denoising using <strong>hypergraphs</strong> instead of pixel grids</li>
             <li>Built a full pipeline in <strong>Python</strong> — from theory to sharp, clean images</li>
-            <li>Let pixels team up: local neighbors formed <strong>hyperedges</strong>, distant ones were matched by <strong>color similarity</strong></li>
+            <li>Let pixels team up: local neighbors formed <strong>hyperedges</strong> (local), distant ones were matched by <strong>color similarity</strong> (nonlocal)</li>
             <li>Designed our own <strong><em>p</em>-Laplacian operator</strong> to control smoothing with math precision</li>
             <li>Played with different hyperedge weights — the image quality responded instantly</li>
             <li>The result? Cleaner images, preserved edges, and a fun ride through math and code</li>
           </ul>
-          ![Trees](/images/project_pic_4.png "Trees"){: .center width="10000" }
+            ![Trees](/images/project_pic_4.png "Trees"){: .center width="10000" }
           </details>
           ![Trees](/images/project_pic_4.png "Trees"){: .center width="10000" }
 
