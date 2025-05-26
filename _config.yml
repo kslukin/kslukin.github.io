@@ -52,7 +52,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   I am most skilled in: <mark>Math</mark>, <mark>Time Series</mark>,<mark>Data Visualization & Reporting</mark> and <mark>Eating Sushi</mark>
   
-  💻 What I Code With: **Languages & Tools** <details>
+  💻 What I Code With: **Languages & Tools** 
+  <details>
   <summary class="details-toggle"><strong>▶</strong></summary>
 
   <ul>
