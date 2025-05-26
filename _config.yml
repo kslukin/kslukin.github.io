@@ -150,10 +150,10 @@ content:
         description: | # this will include new lines to allow paragraphs
             In this role, I worked on real-world challenges—from forecasting medical equipment demand with time series models to building an internal ChatGPT-like tool for financial reporting. What truly excited me was the chance to explore massive datasets, experiment with new methods, and turn complexity into clarity—both through visualizations and by making technical ideas accessible to non-technical teams. I’ve always had a passion for math and statistics, even before they were trendy, and I love when that passion turns into practical impact.
             <details>
-            <summary class="details-toggle"><strong>▶ Languages & Tools </strong></summary>
+            <summary class="details-toggle"><strong>▶ Details: </strong></summary>
             <ul>
-              <li>📌 Here’s an overview of my contributions: </li>
-              <li> - Took **sparse financial data** and turned it into something meaningful by leveraging **DataBricks** and **PySpark** for powerful modeling and harmonization.</li>
+              📌 Here’s an overview of my contributions:
+              <li> - Took <strong>sparse financial data</strong> and turned it into something meaningful by leveraging <strong>DataBricks</strong> and <strong>PySpark</strong> for powerful modeling and harmonization.</li>
               <li> - Developed and fine-tuned **time series forecasting models** (like **ARIMA** and **DeepAR**) to boost revenue predictions, helping the company optimize planning and decision-making.</li>
               <li> - Played a key role in integrating internal data sources with **GPT models**, creating smooth workflows using LangChain to supercharge internal processes.</li>
               <li> - Explored the potential of large language models (**LLMs**) to automate internal financial processes, significantly improving efficiency across the board.</li>
