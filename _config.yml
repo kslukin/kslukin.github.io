@@ -134,15 +134,13 @@ content:
     content:
       - layout: left
         title: Professional Development Break
-        subtitle: Germany
-        caption: May 2024 - May 2025
+        caption: May 2024 - May 2025 
         quote: >
           <span style="color: #1e874b;">"Like in any good model — sometimes you need to pause, recalibrate, and then iterate."</span>
         description:
           After completing my studies, I took time to relocate and reflect on the direction I wanted to take professionally. During this year, I focused on deepening my practical skills in Data Science — from structured online learning to hands-on exercises and experimenting with code. I also dedicated time to improving my German, aiming to integrate both professionally and personally.
       - layout: left
         title: 🇩🇪 Siemens Healthineers
-        subtitle: Erlangen, Germany
         link: siemens-healthineers.com
         # link_text: siemens-healthineers.com
         sub_title: Data Scientist in Projects & Digital - Diagnostic Imaging Finance (Working Student)
@@ -164,9 +162,8 @@ content:
     content:
       - layout: left
         title: 🎓 Friedrich–Alexander University Erlangen–Nürnberg (FAU)
-        subtitle: Erlangen, Germany
         link: fau.de
-        caption: October 2020 - May 2024
+        caption: October 2020 - May 2024 · Erlangen, Germany
         sub_title: M.Sc. Computational and Applied Mathematics
         quote: >
           <span style="color: #1e874b;">"Founded in 1743, FAU is one of Germany’s leading research universities, ranked #1 worldwide for innovation in the Times Higher Education Impact Rankings."</span>
@@ -184,9 +181,8 @@ content:
           - Programming techniques for supercomputers
       - layout: left
         title: 🎓 Moscow State University of Civil Engineering (MSUCE)
-        subtitle: Moscow, Russia
         link: mgsu.ru
-        caption: September 2015 - June 2021
+        caption: September 2015 - June 2021 · Moscow, Russia
         sub_title: M.Sc. Applied Mechanics and B.Sc. Applied Mathematics
         quote: >
           <span style="color: #1e874b;">"For over 100 years, the university has combined tradition and innovation to educate civil engineers who shape the built environment."</span>
