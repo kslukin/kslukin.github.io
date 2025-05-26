@@ -136,7 +136,7 @@ content:
         title: Professional Development Break
         caption: May 2024 - May 2025
         quote: >
-          <span style="color: #2ecc71;">Like in any good model — sometimes you need to pause, recalibrate, and then iterate.</span>
+          <span style="color: #1e874b;">Like in any good model — sometimes you need to pause, recalibrate, and then iterate.</span>
         description:
           After completing my studies, I took time to relocate and reflect on the direction I wanted to take professionally. During this year, I focused on deepening my practical skills in Data Science — from structured online learning to hands-on exercises and experimenting with code. I also dedicated time to improving my German, aiming to integrate both professionally and personally.
       - layout: left
@@ -146,7 +146,7 @@ content:
         sub_title: Data Scientist in Projects & Digital - Diagnostic Imaging Finance (Working Student)
         caption: August 2022 - December 2023
         quote: >
-          A global leader in medical technology, driving innovation in diagnostics and healthcare solutions worldwide.
+          <span style="color: #1e874b;">A global leader in medical technology, driving innovation in diagnostics and healthcare solutions worldwide.</span>
         description: | # this will include new lines to allow paragraphs
             In this role, I worked on real-world challenges—from forecasting medical equipment demand with time series models to building an internal ChatGPT-like tool for financial reporting. What truly excited me was the chance to explore massive datasets, experiment with new methods, and turn complexity into clarity—both through visualizations and by making technical ideas accessible to non-technical teams. I’ve always had a passion for math and statistics, even before they were trendy, and I love when that passion turns into practical impact.
             
