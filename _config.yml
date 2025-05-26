@@ -182,13 +182,24 @@ content:
 
           📌 Thesis topic:
           - Hypegraph *p*-Laplace Operators for Image Denoising (M.Sc., 2023) [PDF and Python Code](https://github.com/kslukin/FAU_Master_Thesis)
+          
+          <details>
+          <summary class="details-toggle"><strong>▶ Key courses: </strong></summary>
+          <ul>
+            <li> Mathematical Data Science (Python) </li>
+            <li> Control, machine learning and numerics (MATLAB, Python) </li>
+            <li> Modeling, simulation and optimization (Practical Course, MATLAB) </li>
+            <li> Mathematical Image Processing </li>
+            <li> Programming techniques for supercomputers (C++) </li>
+          </ul>
+          </details>
 
-          Key courses:
-          - Mathematical Data Science
-          - Control, machine learning and numerics
-          - Modeling, simulation and optimization (Practical Course)
-          - Mathematical Image Processing
-          - Programming techniques for supercomputers
+         # Key courses:
+         # - Mathematical Data Science
+         # - Control, machine learning and numerics
+         # - Modeling, simulation and optimization (Practical Course)
+         # - Mathematical Image Processing
+         # - Programming techniques for supercomputers
       - layout: left
         title: 🎓 Moscow State University of Civil Engineering (MSUCE)
         link: mgsu.ru
