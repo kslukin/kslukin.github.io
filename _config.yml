@@ -173,7 +173,7 @@ content:
       - layout: left
         title: 🎓 Friedrich–Alexander University Erlangen–Nürnberg (FAU)
         link: fau.de
-        caption: October 2020 - May 2024 ·   Erlangen, Germany
+        caption: October 2020 - May 2024  ·   Erlangen, Germany
         sub_title: M.Sc. Computational and Applied Mathematics
         quote: >
           <span style="color: #1e874b;">"Founded in 1743, FAU is one of Germany’s leading research universities, ranked #1 worldwide for innovation in the Times Higher Education Impact Rankings."</span>
@@ -214,12 +214,24 @@ content:
           - Statistical Analysis of Stock Market Fractal Nature (M.Sc., 2021)
           - Statistical Analysis of Defined Economic Indices of Construction Industry Functioning (B.Sc., 2019)
 
-          Key courses:
-          - Mathematical Analysis and Differential Equations
-          - Probability Theory, Mathematical Statistics and Theory of Random Processes
-          - Numerical Methods, Mathematical Simulation and Optimization Methods 
-          - Data Bases and Intelligent Systems
-          - Programming in C++ and MATLAB
+                    
+          <details>
+          <summary class="details-toggle"><strong>▶ Key courses: </strong></summary>
+          <ul>
+            <li> Mathematical Analysis and Differential Equations </li>
+            <li> Probability Theory, Mathematical Statistics and Theory of Random Processes </li>
+            <li> Numerical Methods, Mathematical Simulation and Optimization Methods  </li>
+            <li> Data Bases and Intelligent Systems </li>
+            <li> Programming in C++ and MATLAB </li>
+          </ul>
+          </details>
+
+        #  Key courses:
+        #  - Mathematical Analysis and Differential Equations
+        #  - Probability Theory, Mathematical Statistics and Theory of Random Processes
+        #  - Numerical Methods, Mathematical Simulation and Optimization Methods 
+        #  - Data Bases and Intelligent Systems
+        #  - Programming in C++ and MATLAB
       
   - title: 📚 Publications
     layout: text
