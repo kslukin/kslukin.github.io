@@ -66,6 +66,19 @@ about_content: | # this will include new lines to allow paragraphs
   
   🗂️ Git & GitHub ★★★★☆ — because versioning saves lives
 
+  <details>
+  <summary class="details-toggle"><strong>▶ 💻 What I Code With: **Languages & Tools** </strong></summary>
+
+  <ul>
+    <li>🐍 Python ★★★★☆ - my everyday toolbox (pandas / NumPy / scikit-learn / XGBoost / TensorFlow / Keras,  and Seaborn / Plotly / Matplotlib, and LangChain / OpenAI / Streamlit / Jupyter) </li>
+    <li>🛢️ SQL ★★★★☆  — for digging through data</li>
+    <li>ABAP ★☆☆☆☆ – just getting started </li>
+    <li>🔥 PySpark ★★★☆☆ — when things get really big</li>
+    <li>⚙️ C++ / MATLAB ★★☆☆☆ — for the math-heavy stuff</li>
+    <li>🗂️ Git & GitHub ★★★★☆ — because versioning saves lives</li>
+  </ul>
+  </details>
+
   **Spoken Languages**: 🇷🇺 Russian, 🇬🇧 English, 🇩🇪 German.
 
 content:
