@@ -7,3 +7,9 @@
 #
 layout: default
 ---
+
+<style>
+  body {
+    background-color: #fdf6e3; /* beige */
+  }
+</style>
