@@ -85,7 +85,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Predicting outcomes, one move at a time.
+          <span style="color: #1e874b;">Predicting outcomes, one move at a time.</span>
         description: | # this will include new lines to allow paragraphs
           A strategic Connect Four simulation where an AI agent applies minimax search with alpha-beta pruning, balancing deterministic optimization with stochastic variability for more natural gameplay dynamics. 
       - layout: top-middle
@@ -97,7 +97,7 @@ content:
             icon: fab fa-github
             url: github.com/kslukin/FAU_Master_Thesis
         quote: >
-          Where math meets pixels
+          <span style="color: #1e874b;">Where math meets pixels.</span>
         description: | # this will include new lines to allow paragraphs
           An image denoising approach using *p* -  Laplace operators on unoriented hypergraphs. Built in Python and developed in collaboration with researchers, the project blends theory and experiments to enhance visual data.
           <details>
@@ -136,7 +136,7 @@ content:
         title: Professional Development Break
         caption: May 2024 - May 2025
         quote: >
-          <span style="color: #1e874b;">Like in any good model — sometimes you need to pause, recalibrate, and then iterate.</span>
+          <span style="color: #1e874b;">"Like in any good model — sometimes you need to pause, recalibrate, and then iterate."</span>
         description:
           After completing my studies, I took time to relocate and reflect on the direction I wanted to take professionally. During this year, I focused on deepening my practical skills in Data Science — from structured online learning to hands-on exercises and experimenting with code. I also dedicated time to improving my German, aiming to integrate both professionally and personally.
       - layout: left
@@ -146,7 +146,7 @@ content:
         sub_title: Data Scientist in Projects & Digital - Diagnostic Imaging Finance (Working Student)
         caption: August 2022 - December 2023
         quote: >
-          <span style="color: #1e874b;">A global leader in medical technology, driving innovation in diagnostics and healthcare solutions worldwide.</span>
+          <span style="color: #1e874b;">"A global leader in medical technology, driving innovation in diagnostics and healthcare solutions worldwide."</span>
         description: | # this will include new lines to allow paragraphs
             In this role, I worked on real-world challenges—from forecasting medical equipment demand with time series models to building an internal ChatGPT-like tool for financial reporting. What truly excited me was the chance to explore massive datasets, experiment with new methods, and turn complexity into clarity—both through visualizations and by making technical ideas accessible to non-technical teams. I’ve always had a passion for math and statistics, even before they were trendy, and I love when that passion turns into practical impact.
             
@@ -166,7 +166,7 @@ content:
         caption: October 2020 - May 2024
         sub_title: M.Sc. Computational and Applied Mathematics
         quote: >
-          "Founded in 1743, FAU is one of Germany’s leading research universities, ranked #1 worldwide for innovation in the Times Higher Education Impact Rankings."
+          <span style="color: #1e874b;">"Founded in 1743, FAU is one of Germany’s leading research universities, ranked #1 worldwide for innovation in the Times Higher Education Impact Rankings."</span>
         description: | # this will include new lines to allow paragraphs
           My studies in computational and applied mathematics gave me the chance to refine my skills in data analysis, mathematical modeling, and machine learning. I focused on applying these techniques to real-world problems, with a particular emphasis on image processing and creating innovative solutions driven by data.
 
@@ -185,7 +185,7 @@ content:
         caption: September 2015 - June 2021
         sub_title: M.Sc. Applied Mechanics and B.Sc. Applied Mathematics
         quote: >
-          "For over 100 years, the university has combined tradition and innovation to educate civil engineers who shape the built environment."
+          <span style="color: #1e874b;">"For over 100 years, the university has combined tradition and innovation to educate civil engineers who shape the built environment."</span>
         description: | # this will include new lines to allow paragraphs
           My time at MSUCE was where it all started - long nights with math models, unexpected breakthroughs, and the first real spark of curiosity about how data reflects the world around us. I began by analyzing economic trends in construction, and a few years later found myself diving into the strange beauty of stock market fractals. These years gave me not just two degrees, but a real passion for patterns, complexity, and making sense of the numbers behind the scenes.
 
