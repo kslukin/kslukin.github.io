@@ -154,17 +154,17 @@ content:
             <ul>
             📌 Here’s an overview of my contributions:
               <li> Took <strong>sparse financial data</strong> and turned it into something meaningful by leveraging <strong>DataBricks</strong> and <strong>PySpark</strong> for powerful modeling and harmonization.</li>
-              <li> Developed and fine-tuned **time series forecasting models** (like **ARIMA** and **DeepAR**) to boost revenue predictions, helping the company optimize planning and decision-making.</li>
-              <li> Played a key role in integrating internal data sources with **GPT models**, creating smooth workflows using LangChain to supercharge internal processes.</li>
-              <li> Explored the potential of large language models (**LLMs**) to automate internal financial processes, significantly improving efficiency across the board.</li>
+              <li> Developed and fine-tuned <strong>time series forecasting models</strong> (like ARIMA and DeepAR) to boost revenue predictions, helping the company optimize planning and decision-making.</li>
+              <li> Played a key role in integrating internal data sources with <strong>GPT models</strong>, creating smooth workflows using LangChain to supercharge internal processes.</li>
+              <li> Explored the potential of large language models (<strong>LLMs</strong>) to automate internal financial processes, significantly improving efficiency across the board.</li>
             </ul>
             </details>
 
-            📌 Here’s an overview of my contributions:
-            - Took **sparse financial data** and turned it into something meaningful by leveraging **DataBricks** and **PySpark** for powerful modeling and harmonization.
-            - Developed and fine-tuned **time series forecasting models** (like **ARIMA** and **DeepAR**) to boost revenue predictions, helping the company optimize planning and decision-making.
-            - Played a key role in integrating internal data sources with **GPT models**, creating smooth workflows using LangChain to supercharge internal processes.
-            - Explored the potential of large language models (**LLMs**) to automate internal financial processes, significantly improving efficiency across the board.
+         #    📌 Here’s an overview of my contributions:
+         #    - Took **sparse financial data** and turned it into something meaningful by leveraging **DataBricks** and **PySpark** for powerful modeling and harmonization.
+         #    - Developed and fine-tuned **time series forecasting models** (like **ARIMA** and **DeepAR**) to boost revenue predictions, helping the company optimize planning and decision-making.
+         #    - Played a key role in integrating internal data sources with **GPT models**, creating smooth workflows using LangChain to supercharge internal processes.
+         #    - Explored the potential of large language models (**LLMs**) to automate internal financial processes, significantly improving efficiency across the board.
             
 
   - title: Education # Title for the section
