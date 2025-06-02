@@ -82,7 +82,7 @@ content:
             icon: fab fa-github
             url: github.com/kslukin
         quote: >
-          <span style="color: #1e874b;">"Predicting outcomes, one move at a time."</span>
+          <span style="color: #1e874b;">"A bedtime story written in data."</span>
         description: | # this will include new lines to allow paragraphs
           A machine learning app that predicts how long you'll sleep based on your daily habits: workouts, caffeine, relaxation, phone use and more.
           <details>
@@ -90,9 +90,6 @@ content:
 
           <ul>
             <li><strong>Goal</strong>: Build an agent that plays optimally against human opponents</li>
-            <li><strong>Tech stack</strong>: Python, minimax algorithm, alpha-beta pruning</li>
-            <li><strong>Result</strong>: Defeated 85% of test users in blind trials</li>
-            <li><strong>Next steps</strong>: Refactor into reinforcement learning agent using Gym</li>
           </ul>
           </details>
       - layout: top-middle
