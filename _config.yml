@@ -74,6 +74,28 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: 💤 Sleep Time Predictor
+        link: github.com/kslukin/sleep-time-predictor
+        link_text: Project Website
+        additional_links: 
+          - title: 
+            icon: fab fa-github
+            url: github.com/kslukin
+        quote: >
+          <span style="color: #1e874b;">"Predicting outcomes, one move at a time."</span>
+        description: | # this will include new lines to allow paragraphs
+          A machine learning app that predicts how long you'll sleep based on your daily habits: workouts, caffeine, relaxation, phone use and more.
+          <details>
+          <summary class="details-toggle"><strong>▶ Project details</strong></summary>
+
+          <ul>
+            <li><strong>Goal</strong>: Build an agent that plays optimally against human opponents</li>
+            <li><strong>Tech stack</strong>: Python, minimax algorithm, alpha-beta pruning</li>
+            <li><strong>Result</strong>: Defeated 85% of test users in blind trials</li>
+            <li><strong>Next steps</strong>: Refactor into reinforcement learning agent using Gym</li>
+          </ul>
+          </details>
+      - layout: top-middle
         title: Connect Four AI. Minimax with Alpha-Beta Pruning
         link: github.com/kslukin/toy_projects/tree/main/Connect4_AI
         link_text: Project Website
