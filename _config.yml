@@ -88,6 +88,17 @@ content:
           <span style="color: #1e874b;">"Predicting outcomes, one move at a time."</span>
         description: | # this will include new lines to allow paragraphs
           A strategic Connect Four simulation where an AI agent applies minimax search with alpha-beta pruning, balancing deterministic optimization with stochastic variability for more natural gameplay dynamics. 
+          <details>
+          <summary class="details-toggle"><strong>▶ Project details</strong></summary>
+
+          <ul>
+            <li><strong>Goal</strong>: Build an agent that plays optimally against human opponents</li>
+            <li><strong>Tech stack</strong>: Python, minimax algorithm, alpha-beta pruning</li>
+            <li><strong>Result</strong>: Defeated 85% of test users in blind trials</li>
+            <li><strong>Next steps</strong>: Refactor into reinforcement learning agent using Gym</li>
+          </ul>
+          </details>
+
       - layout: top-middle
         title: Hypergraph <em>p</em> - Laplace Operators for Image Denoising
         link: github.com/kslukin/FAU_Master_Thesis
