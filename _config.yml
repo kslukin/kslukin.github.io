@@ -80,7 +80,7 @@ content:
         additional_links: 
           - title: 
             icon: fab fa-github
-            url: github.com/kslukin
+            url: github.com/kslukin/sleep-time-predictor
         quote: >
           <span style="color: #1e874b;">"A bedtime story written in data."</span>
         description: | # this will include new lines to allow paragraphs
