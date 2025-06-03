@@ -86,7 +86,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           This project demonstrates a complete ML pipeline — from data analysis to deployment — using a synthetic dataset simulating the relationship between lifestyle factors and sleep duration.
 
-          Live app: [Sleep Time Predictor on Streamlit](https://sleep-time-predictor-shcrdtk9wjtmlqryxecfgn.streamlit.app)
+          Live app: [Sleep Time Predictor on Streamlit](https://sleep-time-predictor-cn9auj4h3fixrcvbaz7blg.streamlit.app)
 
           <details>
           <summary class="details-toggle"><strong>▶ Project details</strong></summary>
