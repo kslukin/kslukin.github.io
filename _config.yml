@@ -92,11 +92,11 @@ content:
           <summary class="details-toggle"><strong>▶ Project details</strong></summary>
 
           <ul>
-            <li><strong>Goal</strong>:<strong>Data Analysis:</strong> Visualized lifestyle–sleep patterns and uncovered key correlations in synthetic data.</li>
-            <li><strong>Goal</strong>:<strong>Preprocessing:</strong> Filtered outliers and refined features for robust modeling.</li>
-            <li><strong>Goal</strong>:<strong>Modeling:</strong> Trained a Random Forest Regressor with strong performance (MAE: 0.24, R²: 0.82).</li>
-            <li><strong>Goal</strong>:<strong>App:</strong> Built a fast, interactive predictor using Streamlit.</li>
-            <li><strong>Goal</strong>:<strong>Deployment:</strong> Deployed on Streamlit Cloud and embedded into portfolio site.</li>
+            <li><strong></strong>:<strong>Data Analysis:</strong> Visualized lifestyle–sleep patterns and uncovered key correlations in synthetic data.</li>
+            <li><strong></strong>:<strong>Preprocessing:</strong> Filtered outliers and refined features for robust modeling.</li>
+            <li><strong></strong>:<strong>Modeling:</strong> Trained a Random Forest Regressor with strong performance (MAE: 0.24, R²: 0.82).</li>
+            <li><strong></strong>:<strong>App:</strong> Built a fast, interactive predictor using Streamlit.</li>
+            <li><strong></strong>:<strong>Deployment:</strong> Deployed on Streamlit Cloud and embedded into portfolio site.</li>
 
           </ul>
           </details>
