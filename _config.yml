@@ -84,12 +84,20 @@ content:
         quote: >
           <span style="color: #1e874b;">"A bedtime story written in data."</span>
         description: | # this will include new lines to allow paragraphs
-          A machine learning app that predicts how long you'll sleep based on your daily habits: workouts, caffeine, relaxation, phone use and more.
+          This project demonstrates a complete ML pipeline — from data analysis to deployment — using a synthetic dataset simulating the relationship between lifestyle factors and sleep duration.
+
+          Live app: [Sleep Time Predictor on Streamlit](https://sleep-time-predictor-shcrdtk9wjtmlqryxecfgn.streamlit.app)
+
           <details>
           <summary class="details-toggle"><strong>▶ Project details</strong></summary>
 
           <ul>
-            <li><strong>Goal</strong>: Build an agent that plays optimally against human opponents</li>
+            <li><strong>Goal</strong>:<strong>Data Analysis:</strong> Visualized lifestyle–sleep patterns and uncovered key correlations in synthetic data.</li>
+            <li><strong>Goal</strong>:<strong>Preprocessing:</strong> Filtered outliers and refined features for robust modeling.</li>
+            <li><strong>Goal</strong>:<strong>Modeling:</strong> Trained a Random Forest Regressor with strong performance (MAE: 0.24, R²: 0.82).</li>
+            <li><strong>Goal</strong>:<strong>App:</strong> Built a fast, interactive predictor using Streamlit.</li>
+            <li><strong>Goal</strong>:<strong>Deployment:</strong> Deployed on Streamlit Cloud and embedded into portfolio site.</li>
+
           </ul>
           </details>
       - layout: top-middle
