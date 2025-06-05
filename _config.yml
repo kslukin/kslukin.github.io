@@ -171,12 +171,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Professional Development Break
+        title: Independent Learning & Freelance Work
         caption: May 2024 - May 2025 
         quote: >
           <span style="color: #1e874b;">"Like in any good model — sometimes you need to pause, recalibrate, and then iterate."</span>
         description:
-          After completing my studies, I took time to relocate and reflect on the direction I wanted to take professionally. During this year, I focused on deepening my practical skills in Data Science — from structured online learning to hands-on exercises and experimenting with code. I also dedicated time to improving my German, aiming to integrate both professionally and personally.
+          After graduating, I took a break to realign my goals and invest in my personal growth. I delved into practical Data Science projects, expanded my knowledge through online platforms, and explored new tools and techniques. 
+          Alongside this, I worked as a freelance maths tutor, enjoying the challenge of making complex topics accessible — and rediscovering the joy of learning through teaching. I also dedicated time to improving my German, which made me feel more at home in everyday and professional settings.
       - layout: left
         title: 🇩🇪 Siemens Healthineers
         link: siemens-healthineers.com
