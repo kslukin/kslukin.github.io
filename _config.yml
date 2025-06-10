@@ -205,10 +205,10 @@ content:
          #    - Played a key role in integrating internal data sources with **GPT models**, creating smooth workflows using LangChain to supercharge internal processes.
          #    - Explored the potential of large language models (**LLMs**) to automate internal financial processes, significantly improving efficiency across the board.
       - layout: left
-        title: 🇷🇺 Early Technical Experience
+        title: 🇷🇺 Early Experience in Data & Research
         # link: siemens-healthineers.com
         # link_text: siemens-healthineers.com
-        sub_title: Data Management Assistant & Data Analytics Intern
+        sub_title: Data Management Assistant & Data Analytics Intern & Teaching Assistant
         caption: 2017 - 2020 · Moscow, Russia
         quote: >
           <span style="color: #1e874b;">"Where I learned to turn raw data into insight-long before it had to scale."</span>
