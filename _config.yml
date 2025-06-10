@@ -204,6 +204,26 @@ content:
          #    - Developed and fine-tuned **time series forecasting models** (like **ARIMA** and **DeepAR**) to boost revenue predictions, helping the company optimize planning and decision-making.
          #    - Played a key role in integrating internal data sources with **GPT models**, creating smooth workflows using LangChain to supercharge internal processes.
          #    - Explored the potential of large language models (**LLMs**) to automate internal financial processes, significantly improving efficiency across the board.
+      - layout: left
+        title: 🇷🇺 Early Technical Experience
+        # link: siemens-healthineers.com
+        # link_text: siemens-healthineers.com
+        sub_title: Data Management Assistant & Data Analytics Intern
+        caption: 2017 - 2020 · Moscow, Russia
+        quote: >
+          <span style="color: #1e874b;">"Where I learned to turn raw data into insight-long before it had to scale."</span>
+        description: | # this will include new lines to allow paragraphs
+            Gained hands-on experience in data management, simulation analysis, and academic research while working part-time alongside my studies.
+            <details>
+            <summary class="details-toggle"><strong>▶ Highlights: </strong></summary>
+            <ul>
+            📌 Here’s an overview of my contributions:
+              <li> Automated document workflows at Rosatom’s engineering division.</li>
+              <li> Analyzed structural simulations and sensor data to validate FE models.</li>
+              <li> Supported teaching and research at the university math department.</li>
+            </ul>
+            </details>
+ 
             
 
   - title: Education # Title for the section
