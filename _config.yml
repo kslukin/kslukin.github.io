@@ -187,7 +187,7 @@ content:
         quote: >
           <span style="color: #1e874b;">"A global leader in medical technology, driving innovation in diagnostics and healthcare solutions worldwide."</span>
         description: | # this will include new lines to allow paragraphs
-            In this role, I worked on real-world challenges—from forecasting medical equipment demand with time series models to building an internal ChatGPT-like tool for financial reporting. What truly excited me was the chance to explore massive datasets, experiment with new methods, and turn complexity into clarity—both through visualizations and by making technical ideas accessible to non-technical teams. I’ve always had a passion for math and statistics, even before they were trendy, and I love when that passion turns into practical impact.
+            In this role, I worked on real-world challenges - from forecasting medical equipment demand with time series models to building an internal ChatGPT-like tool for financial reporting. What truly excited me was the chance to explore massive datasets, experiment with new methods, and turn complexity into clarity - both through visualizations and by making technical ideas accessible to non-technical teams. I’ve always had a passion for math and statistics, even before they were trendy, and I love when that passion turns into practical impact.
             <details>
             <summary class="details-toggle"><strong>▶ Details: </strong></summary>
             <ul>
