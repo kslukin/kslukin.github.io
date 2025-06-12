@@ -151,6 +151,18 @@ content:
           </ul>
           </details>
           ![Trees](/images/project_pic_4.png "Trees"){: .center width="10000" }
+      - layout: top-middle
+        title: A/B Testing Project
+        link: github.com/kslukin/
+        link_text: Project Website
+        additional_links:
+          - title: 
+            icon: fab fa-github
+            url: github.com/kslukin
+        quote: >
+          In process
+        description: | # this will include new lines to allow paragraphs
+          In process
 
       - layout: top-middle
         title: Time-Series
